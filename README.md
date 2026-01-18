@@ -42,7 +42,7 @@ Aqui estão alguns projetos que demonstram minha proficiência técnica e capaci
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [https://www.linkedin.com/in/murilo-fonseca-276b5023b/] |
-| **E-mail** | [murilo.fsc.araujo@gmail.com] |
+| **LinkedIn** | https://www.linkedin.com/in/murilo-fonseca-276b5023b/ |
+| **E-mail** | murilo.fsc.araujo@gmail.com |
 
 *Estou ativamente buscando minha primeira oportunidade como Desenvolvedor Júnior ou Estagiário.*
