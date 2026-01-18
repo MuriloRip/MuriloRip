@@ -1,17 +1,13 @@
 name: generate animation
 
 on:
-  # Executa automaticamente a cada 24 horas
   schedule:
-    - cron: "0 */24 * * *" 
-  
-  # Permite rodar manualmente a qualquer momento
+    - cron: "0 0 * * *" 
   workflow_dispatch:
-  
-  # Executa a cada push na branch principal
   push:
     branches:
     - main
+
 
 jobs:
   generate:
