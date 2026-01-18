@@ -42,14 +42,23 @@ Sou um desenvolvedor apaixonado por criar ferramentas úteis que resolvem proble
 
 ---
 
-## 🌟 Projetos em Destaque
+## 🚀 Projetos de Alta Complexidade
+
+| Projeto | Descrição | Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **🐹 GopherCache** | Sistema de cache distribuído em memória com protocolo TCP customizado. | Go | [Ver Repositório](https://github.com/MuriloRip/gophercache) |
+| **☁️ CloudScale** | Orquestrador inteligente para auto-scaling de containers Docker. | Python | [Ver Repositório](https://github.com/MuriloRip/cloudscale-monitor) |
+| **📊 DataPipeline** | Motor de ETL modular para processamento de grandes volumes de dados. | Python / Pandas | [Ver Repositório](https://github.com/MuriloRip/datapipeline-pro) |
+
+---
+
+## 🌟 Outros Projetos Úteis
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
 | **🛡️ EnvGuard** | Auditoria de .env e segurança. | [Ver Repositório](https://github.com/MuriloRip/envguard) |
 | **📄 DocuMind** | Gerador de documentação automático. | [Ver Repositório](https://github.com/MuriloRip/documind) |
 | **💓 LogPulse** | Visualização de logs no terminal. | [Ver Repositório](https://github.com/MuriloRip/logpulse) |
-| **📊 GitPulse Analytics** | Análise de atividade Git. | [Ver Repositório](https://github.com/MuriloRip/git-pulse-analytics) |
 
 ---
 
@@ -58,13 +67,6 @@ Sou um desenvolvedor apaixonado por criar ferramentas úteis que resolvem proble
 ![Estatísticas do Murilo](https://github-readme-stats.vercel.app/api?username=MuriloRip&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRip&layout=compact&theme=radical&hide_progress=true)
-
----
-
-## 🐍 GitHub Snake Game
-*(Para ativar a animação da cobrinha, siga as instruções que te enviei anteriormente!)*
-
-![Snake animation](https://github.com/MuriloRip/MuriloRip/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
