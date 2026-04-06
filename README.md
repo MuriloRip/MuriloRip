@@ -92,8 +92,8 @@ Hub SaaS com múltiplos projetos para freelancers.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MuriloRip&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloRip&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuriloRip&theme=cobalt&hide_border=true&locale=pt_BR&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloRip)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
