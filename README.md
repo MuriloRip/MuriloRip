@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner do perfil de Murilo Fonseca](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0F766E&height=190&section=header&text=Murilo%20Fonseca&fontSize=42&fontColor=F8FAFC&desc=Sistemas%20%26%20Infraestrutura&descAlignY=72&descSize=16)
+![Banner do perfil de Murilo Fonseca](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0F766E&height=190&section=header&text=Murilo%20Fonseca&fontSize=42&fontColor=F8FAFC&desc=Sistemas%20e%20Infraestrutura&descAlignY=72&descSize=16)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murilo-fonseca-276b5023b/)
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilofonseca.dev@gmail.com)
